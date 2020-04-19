@@ -1,0 +1,35 @@
+h2{
+    border: 5px black solid;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    font-size:40px;
+    text-align: center;
+    text-decoration: underline;
+    float: left; 
+    background-color: white;
+}
+#field{
+    text-align: center;
+    margin-bottom: 10px;
+    list-style-type: none;
+    padding-left:0px
+}
+ul{
+    list-style-type: none;
+    padding-left:0px;
+}
+label{
+    text-align: center
+}
+legend{
+    font-family: 'Arial';
+    color: gray;
+    font-weight: bold;
+    margin-bottom: 0px;
+    font-size: 22px;
+}
+body {
+    background-image: url("https://images.pexels.com/photos/1157805/pexels-photo-1157805.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"); 
+    background-repeat: no-repeat;
+    background-size: 1500px 1200px;
+}
