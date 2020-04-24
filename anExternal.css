@@ -1,0 +1,27 @@
+body{
+    background-color:lightblue;
+}
+h1{
+    color:navy;
+    margin-left:20px;
+}
+.centered{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+#rcorners1{
+    border-radius:20px;
+    border: 5px solid #73AD21;
+    padding:20px;
+    width:700px;
+    height:50px;
+}
+#para1{
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+#para2{
+    font-family: 'Baloo Bhaina 2', cursive;
+    font-size:20px;
+}
